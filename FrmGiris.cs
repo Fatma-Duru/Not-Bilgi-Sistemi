@@ -68,6 +68,8 @@ namespace Not_Kayıt_Sistemi
             }
         }
 
+
+
         private void BtnOgrenciGiris_Click_1(object sender, EventArgs e)
         {
             string ogrenciNumara = maskedTextBox1.Text; // Öğrenci numarasını alıyoruz
